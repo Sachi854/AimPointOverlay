@@ -8,7 +8,8 @@ Aim Point Overlay is overlay Crosshair on screen. Easy to set up Crosshair with 
 
 1. Download aim_point_overlay.exe from [Releases](https://github.com/Sachi854/AimPointOverlay/releases).
 2. Click aim_point_overlay.exe
-3. Enjoy!
+3. (Make the target game a borderless window mode)
+4. Enjoy!
 
 # Description of function
 
