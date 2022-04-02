@@ -1,0 +1,8 @@
+venv/
+build/
+dist/
+.idea/
+src/__pycache__/
+__pycache__/
+gui.spec
+note.md
